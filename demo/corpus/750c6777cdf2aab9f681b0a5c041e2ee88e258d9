@@ -1,0 +1,9 @@
+R"({
+    "table":"orderBookL2_25",
+    2action":"insert",
+    "data":[
+        {
+            "symbol":"XBTUSD",
+            "id":8796514950,
+            "side":"Buy",
+       R    " 
